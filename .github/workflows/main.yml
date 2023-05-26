@@ -1,7 +1,7 @@
 ---
 name: ci
 
-on: workflow-dispatch
+on: workflow_dispatch
   
 
 jobs:
