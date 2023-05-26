@@ -1,10 +1,8 @@
 ---
 name: ci
 
-on:
-  push:
-    branches:
-      - master
+on: workflow-dispatch
+  
 
 jobs:
   build:
